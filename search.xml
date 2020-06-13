@@ -1,28 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2020/06/11/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
-]]></content>
-      <tags>
-        <tag>Hexo</tag>
-        <tag>nexT</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>建站准备</title>
     <url>/2020/06/12/build-web-guide/</url>
     <content><![CDATA[<h2 id="选择域名"><a href="#选择域名" class="headerlink" title="选择域名"></a>选择域名</h2><p>域名建议跟内容主题一致，这样不但更容易记忆而且用户信任感会更高，国内的域名平台建议选择：</p>
@@ -125,9 +103,51 @@
       </tags>
   </entry>
   <entry>
+    <title>Hello World</title>
+    <url>/2020/06/11/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>nexT</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>常见个人博客的搭建方式</title>
     <url>/2020/06/13/%E5%B8%B8%E8%A7%81%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%90%AD%E5%BB%BA%E6%96%B9%E5%BC%8F/</url>
-    <content><![CDATA[<h3 id="使用GitBook"><a href="#使用GitBook" class="headerlink" title="使用GitBook"></a>使用GitBook</h3><p><a href="https://chrisniael.gitbooks.io/gitbook-documentation/content/index.html" target="_blank" rel="noopener">GitBook文档（中文版）</a></p>
+    <content><![CDATA[<h3 id="使用Hexo"><a href="#使用Hexo" class="headerlink" title="使用Hexo"></a>使用Hexo</h3><p>我就是看下面这个网站，入门Hexo的，由于以前有听说过Github可以配合模板搭建个人网站，不需要购买域名和主机。加上看了Hexo搭建的网站也都不错，所以就欣然使用啦：</p>
+<p><a href="https://www.jianshu.com/p/4eaddcbe4d12" target="_blank" rel="noopener">5分钟 搭建免费个人博客</a></p>
+<p>官方网站：<a href="https://hexo.io/zh-cn/" target="_blank" rel="noopener">https://hexo.io/zh-cn/</a></p>
+<h4 id="NexT主题使用"><a href="#NexT主题使用" class="headerlink" title="NexT主题使用"></a>NexT主题使用</h4><p>官方github：<a href="https://github.com/next-theme/hexo-theme-next/blob/master/docs/zh-CN/README.md" target="_blank" rel="noopener">https://github.com/next-theme/hexo-theme-next/blob/master/docs/zh-CN/README.md</a></p>
+<p>iissnan教程：<a href="http://theme-next.iissnan.com/getting-started.html" target="_blank" rel="noopener">http://theme-next.iissnan.com/getting-started.html</a></p>
+<p>iissnan的个人博客：<a href="https://notes.iissnan.com/" target="_blank" rel="noopener">https://notes.iissnan.com/</a></p>
+<p>官方教程（非常详细了）：<a href="https://theme-next.js.org/docs/" target="_blank" rel="noopener">https://theme-next.js.org/docs/</a></p>
+<p>从使用入门，到主题各种设置、各个组件（比如分类页、标签页等）、插件（比如搜索、评论、网站统计、阅读量统计）的使用都有详细说明。</p>
+<p><a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">hexo问题交流</a></p>
+<p><a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+<p><a href="https://www.jianshu.com/p/21c94eb7bcd1" target="_blank" rel="noopener">绝配：hexo+next主题及我走过的坑</a></p>
+<p><a href="https://blog.csdn.net/mango_haoming/article/details/78207534" target="_blank" rel="noopener">Hexo+Pages静态博客-Next主题篇</a></p>
+<p><a href="https://juejin.im/post/5a6ee00ef265da3e4b770ac1#heading-6" target="_blank" rel="noopener">关于HEXO搭建个人博客的点点滴滴</a></p>
+<p><a href="https://alvabill.ml/hexo搭建个人博客--基础篇/" target="_blank" rel="noopener">搭建博客</a></p>
+<p><a href="https://juejin.im/post/5abcd2286fb9a028d66440ba" target="_blank" rel="noopener">手把手教你用Hexo搭建个人技术博客</a></p>
+<p><a href="https://segmentfault.com/a/1190000012907499" target="_blank" rel="noopener">基于CentOS搭建Hexo博客</a></p>
+<p><a href="https://blog.coding.net/blog/CS-Hexo" target="_blank" rel="noopener">最快的 Hexo 博客搭建方法</a></p>
+<p><a href="https://zhuanlan.zhihu.com/p/35668237" target="_blank" rel="noopener">超详细Hexo+Github博客搭建小白教程</a></p>
+<p><a href="https://lrscy.github.io/2018/01/26/Hexo-Github-Backup/" target="_blank" rel="noopener">在Github上备份Hexo博客</a></p>
+<p><a href="https://blog.coding.net/blog/CS-Hexo" target="_blank" rel="noopener">最快的 Hexo 博客搭建方法</a></p>
+<h3 id="使用GitBook"><a href="#使用GitBook" class="headerlink" title="使用GitBook"></a>使用GitBook</h3><p><a href="https://chrisniael.gitbooks.io/gitbook-documentation/content/index.html" target="_blank" rel="noopener">GitBook文档（中文版）</a></p>
 ]]></content>
       <categories>
         <category>建站</category>
